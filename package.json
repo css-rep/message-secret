@@ -1,0 +1,12 @@
+{
+  "name": "message-secret",
+  "version": "1.0.0",
+  "description": "Application de messages éphémères chiffrés, usage unique, auto-destruction.",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/kv": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
